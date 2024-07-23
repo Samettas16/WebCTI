@@ -1,0 +1,5 @@
+Bu ödev SiberVatan YıldızCTI 2. eğitim gününde verilen ödev üzerine yaptım.
+
+- Yapay zekadan yardım aldım.
+- ek olarak firewall tespiti ekledim.
+- bash kullanım yeteneğime bağlı olarak daha efektif şekilde modül ekleyebilirim.
